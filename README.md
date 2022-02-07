@@ -1,13 +1,13 @@
+# Overview
+Role disabling and removing (purging) snapd and related services/packages
 
-# Ansible Role:  `snapd`
+# Variables
+TODO
 
-disable and remove snapd
+# Example playbook
+TODO
 
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bodsch/ansible-snapd/CI)][ci]
-[![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-snapd)][issues]
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-snapd)][releases]
+[![GitHub issues](https://img.shields.io/github/issues/alfajorcito/ansible_snapd_disable)][issues]
 
-[ci]: https://github.com/bodsch/ansible-snapd/actions
-[issues]: https://github.com/bodsch/ansible-snapd/issues?q=is%3Aopen+is%3Aissue
-[releases]: https://github.com/bodsch/ansible-snapd/releases
+[issues]: https://github.com/alfajorcito/ansible_snapd_disable/issues?q=is%3Aopen+is%3Aissue
 
