@@ -7,14 +7,8 @@ snapd_enabled: false
 
 snapd_services:
   - snapd.apparmor.service
-  - snapd.autoimport.service
-  - snapd.core-fixup.service
-  - snapd.recovery-chooser-trigger.service
   - snapd.seeded.service
   - snapd.service
-  - snapd.snap-repair.timer
-  - snapd.socket
-  - snapd.system-shutdown.service
 
 snapd_files:
   - /snap
