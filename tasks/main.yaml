@@ -9,7 +9,7 @@
   loop:
     "{{ snapd_services }}"
 
-- name: purge all these bullshit
+- name: purge all this sh*t
   block:
     - name: debian based
       block:
