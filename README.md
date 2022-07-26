@@ -1,7 +1,7 @@
 # Overview
 Role disabling and removing (purging) snapd and related services/packages
 
-# Supported distros
+# Tested to be working on
 * Ubuntu 20
 * Ubuntu 22
 
